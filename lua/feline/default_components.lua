@@ -348,7 +348,7 @@ M.statusline.noicons.active[2] = {
 
 M.statusline.noicons.inactive[1] = {
     {
-        provider = 'file_type',
+        provider = 'file_info',
         hl = {
             fg = 'white',
             bg = 'oceanblue',
