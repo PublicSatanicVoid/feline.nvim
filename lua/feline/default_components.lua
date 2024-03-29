@@ -165,7 +165,7 @@ M.statusline.icons.active[2] = {
 
 M.statusline.icons.inactive[1] = {
     {
-        provider = 'file_type',
+        provider = 'file_info',
         hl = {
             fg = 'white',
             bg = 'oceanblue',
